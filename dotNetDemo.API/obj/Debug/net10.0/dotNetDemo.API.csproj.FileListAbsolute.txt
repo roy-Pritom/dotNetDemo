@@ -34,3 +34,4 @@
 /Users/pritomroy/Desktop/Pritom/DotNet/dotNetDemo/dotNetDemo.API/bin/Debug/net10.0/Swashbuckle.AspNetCore.Swagger.dll
 /Users/pritomroy/Desktop/Pritom/DotNet/dotNetDemo/dotNetDemo.API/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerGen.dll
 /Users/pritomroy/Desktop/Pritom/DotNet/dotNetDemo/dotNetDemo.API/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/pritomroy/Desktop/Pritom/DotNet/dotNetDemo/dotNetDemo.API/obj/Debug/net10.0/dotNetDemo.API.sourcelink.json
